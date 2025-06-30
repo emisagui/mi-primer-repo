@@ -11,3 +11,4 @@ Mi primer repositorio en GitHub
 - Contribuir a proyectos open source
 - Mejorar mis habilidades de desarrollo colaborativo
 ## Nueva sección agregada localmente
+probando escribir desde la consola
