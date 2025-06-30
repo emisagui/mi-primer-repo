@@ -10,3 +10,4 @@ Mi primer repositorio en GitHub
 - Dominar el control de versiones
 - Contribuir a proyectos open source
 - Mejorar mis habilidades de desarrollo colaborativo
+## Nueva sección agregada localmente
